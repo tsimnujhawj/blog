@@ -10,7 +10,7 @@
 
           <nav class="nav">
             {% for nav in site.nav %}
-            <small><a href="{{ nav.url }}">{{ nav.title }}</a></small>
+              <small><a href="{{ nav.url }}">{{ nav.title }}</a></small>
             {% endfor %}
           </nav>
           <hr/>
@@ -22,11 +22,11 @@
       </main>
 
       <footer class="footer">
-        <small>
+        <small style='font-size: 12px;'>
           &copy;
           <time datetime="{{ site.time | date_to_xmlschema }}"
             >{{ site.time | date: '%Y' }}</time
-          >. All rights reserved.
+          >. <a href='https://tsimnujhawj.com' target="_blank">Tsimnuj Hawj</a>
         </small>
       </footer>
     </div>

@@ -21,7 +21,7 @@
 title: Pixelpunch
 email: tsimnuj.hawj@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  I make mistakes and then I write about it.
+  Okay.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://blog.pixelpunch.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: tsimnujhawj
@@ -70,7 +70,6 @@ sass:
   sass_dir: _sass
   style: compressed
 
-permalink: /:year-:month-:day/:title
 paginate: 5
 
 # Build settings

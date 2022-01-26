@@ -4,7 +4,7 @@ layout: page
 permalink: about/
 ---
 
-What is the point of this blog? I'm... working on it. Just like everything else in my life. Hopefully, my rambling is somewhat entertaining. And maybe it might be insightful enough that you learn something from my mistakes about programming, life, and Dungeons & Dragons.
+What is the point of this blog? I'm... working on it. Just like everything else in my life. Hopefully, my rambling is somewhat entertaining. And maybe it might be insightful enough that you learn something from my mistakes about programming, life, and Dungeons & Dragons. Here's my <a href='https://tsimnujhawj.com' target="_blank">portfolio site</a>.
 # Colophon
 This [Jekyll](https://jekyllrb.com/) blog was most recently updated on {{ site.time | date: '%B %-d, %Y' }}. It is hosted on a personal server. All of the coding was done in [Visual Studio Code](https://code.visualstudio.com/) on Windows 10 utilizing [WSL2](https://docs.microsoft.com/en-us/windows/wsl/about) as the development environment.
 
