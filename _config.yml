@@ -70,6 +70,8 @@ sass:
   sass_dir: _sass
   style: compressed
 
+style: dark
+
 paginate: 5
 
 # Build settings
