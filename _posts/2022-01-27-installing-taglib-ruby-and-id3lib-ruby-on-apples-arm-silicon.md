@@ -2,8 +2,7 @@
 title: "Installing taglib-ruby and id3lib-ruby on Apple's ARM Silicon"
 layout: post
 date: 2022-01-27 01:03:23 +0000
-tags:
- -
+tags: [arm64, arm, apple silicon, macbook pro, id3lib, id3lib-ruby, taglib, taglib-ruby]
 ---
 
 [Take me to the solution.](#now-the-solution)
@@ -149,12 +148,12 @@ You’ll need to export two variables:
 id3lib-ruby:
 {% include copy.html %}
 ```bash
-export CONFIGURE_ARGS="--with-opt-dir=/opt/homebrew/Cellar/id3lib/3.8.3_1/"
+export CONFIGURE_ARGS="--with-opt-dir=$(brew --prefix id3lib)"
 ```
 taglib-ruby:
 {% include copy.html %}
 ```bash
-export TAGLIB_DIR="/opt/homebrew/Cellar/taglib/1.12"
+export TAGLIB_DIR="$(brew --prefix taglib)"
 ```
 Of course, make sure to check your id3lib and taglib locations by using:
 {% include copy.html %}
