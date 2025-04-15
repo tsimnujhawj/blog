@@ -18,32 +18,29 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Tsimnuj Hawj's Blog
-email: tsimnuj.hawj@gmail.com
+title: Your awesome title
+email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Okay.
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://tsimnujhawj.github.io/blog" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  tsimnujhawj
-
-# Author
-author:
-  name: Tsimnuj Hawj
-  url: https://tsimnujhawj.github.io/
-  email: tsimnuj.hawj@gmail.com
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: jekyllrb
+github_username:  jekyll
 
 # Build settings
-# theme: minimal-mistakes-jekyll
-remote_theme: mmistakes/minimal-mistakes
+theme: plainwhite
+# minimal_mistakes_skin: 'contrast'
+# remote_theme: ankitsultana/researcher@gem
+# remote_theme: samarsault/plainwhite-jekyll
+
+plainwhite:
+  search: true
+
 plugins:
   - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-sitemap
-  - jekyll-paginate
-  - jekyll-gist
-  - jemoji
   - jekyll-include-cache
-  - github-pages
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -64,30 +61,3 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-
-livereload: true
-
-# Assets
-sass:
-  sass_dir: _sass
-  style: compressed
-
-style: dark
-
-paginate: 5
-
-# Build settings
-markdown: kramdown
-include:
-  - _pages
-
-# Navbar page list
-nav:
-  - title: Blog
-    url: /
-  - title: About
-    url: /about
-  - title: Archive
-    url: /archive
-  - title: Tags
-    url: /tags
