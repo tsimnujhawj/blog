@@ -8,14 +8,19 @@
       </div>
     </main>
 
+    
     {%-if site.goat_counter and jekyll.environment == "production"-%}
-      {%-include goat_counter.html-%}
+    {%-include goat_counter.html-%}
     {%-endif-%}
-
+    
     {% if page.custom_js %}
-      {% for js_file in page.custom_js %}
-        <script type="text/javascript" src="{{ site.baseurl }}/assets/js/{{ js_file }}.js"></script>
-      {% endfor %}
+    {% for js_file in page.custom_js %}
+    <script type="text/javascript" src="{{ site.baseurl }}/assets/js/{{ js_file }}.js"></script>
+    {% endfor %}
     {% endif %}
+
+    <!-- or without installing anything -->
+    <script src="https://unpkg.com/simple-jekyll-search@latest/dest/simple-jekyll-search.min.js"></script>
+    <script src="{{ site.baseurl }}/assets/script/search.js"></script>
   </body>
 </html>
