@@ -40,9 +40,22 @@ theme_config:
   show_description: false # show blog description in home page
   lowercase_titles: true # show titles in lowercase in lists
 
+sass:
+  style: compressed
+
 plugins:
   - jekyll-feed
   - jekyll-include-cache
+  - jekyll-seo-tag
+  - jektex
+
+jektex:
+  cache_dir: ".jektex-cache"
+  ignore: ["*.xml"]
+  silent: false
+  macros:
+    - ["\\Q", "\\mathbb{Q}"]
+    - ["\\C", "\\mathbb{C}"]
 
 # Exclude from processing.
 # The following items will not be processed, by default.
