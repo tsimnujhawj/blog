@@ -2,7 +2,7 @@
 ---
 
 window.onload = function () {
-    var $searchbar = document.getElementById('searchbar');
+    var $searchbar = document.getElementById('search-input');
     var $searchResults = document.getElementById('search-results');
 
     if (!$searchbar || !$searchResults)
@@ -12,8 +12,15 @@ window.onload = function () {
         searchInput: $searchbar,
         resultsContainer: $searchResults,
         json: '{{ "/search.json" | relative_url }}',
-        searchResultTemplate: '<a href="{url}" target="_blank">{title}</a>',
-        noResultsText: ''
+        searchResultTemplate: `
+            <li class="result-item">
+                <a href="{url}">
+                    {title}
+                </a>
+                <p class="search-date-display">{date}</p>
+            </li>
+        `,
+        noResultsText: 'No results found.'
     });
 
     /* hack ios safari unfocus */
