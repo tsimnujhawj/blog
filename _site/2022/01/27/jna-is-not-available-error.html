@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+  <title>JNA Is Not Available Error</title><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="Tsimnuj Hawj" /><link rel="shortcut icon" type="image/x-icon" href="" />
+  <link rel="stylesheet" href="/assets/css/main.css" />
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.css" integrity="sha384-OH8qNTHoMMVNVcKdKewlipV4SErXqccxxlg6HC9Cwjr5oZu2AdBej1TndeCirael" crossorigin="anonymous">
+
+</head>
+<body a="light">
+    <main class="page-content" aria-label="Content">
+      <div class="w">
+        <a href="/"><..</a><article>
+  <p class="post-meta">
+    <time datetime="2022-01-27 21:47:41 -0600">2022-01-27</time>
+  </p>
+  
+  <h1>JNA Is Not Available Error</h1>
+
+  <p>We continue talking about errors that I’m encountering on an ARM-based Macbook Pro. Luckily, today is a short one.</p>
+
+<p>If you see an error mentioning that JNA is unable to load inside <a href="https://formulae.brew.sh/formula/elasticsearch@6" target="_blank">elasticsearch@6</a>:</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>elastic | <span class="o">[</span>2022-01-27T10:06:44,451][WARN][o.e.b.Natives] <span class="o">[</span>unknown] unable to load JNA native support library, native methods will be disabled.
+</code></pre></div></div>
+
+<p>You need to replace the JNA package with a newer version.</p>
+
+<p>Download the <a href="https://github.com/java-native-access/jna" target="_blank">latest JNA version</a>, and place it into:</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>/opt/homebrew/Cellar/elasticsearch@6/6.8.23/libexec/lib
+</code></pre></div></div>
+
+<p>Don’t forget to remove the old version.<sup id="fnref:1"><a href="#fn:1" class="footnote" rel="footnote" role="doc-noteref">1</a></sup></p>
+
+<p>You can also run the following commands (for macOS) to replace jna-5.5.0.jar with jna-5.10.0.jar (working as of 01/2022):</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>wget <span class="nt">-P</span> <span class="si">$(</span>brew <span class="nt">--prefix</span> elasticsearch@6<span class="si">)</span>/libexec/lib https://repo1.maven.org/maven2/net/java/dev/jna/jna/5.10.0/jna-5.10.0.jar <span class="o">&amp;&amp;</span> <span class="nb">rm </span>jna-5.5.0.jar
+</code></pre></div></div>
+
+<hr />
+<h2 id="footnotes">Footnotes</h2>
+<div class="footnotes" role="doc-endnotes">
+  <ol>
+    <li id="fn:1">
+      <p>Which will most likely will be jna-5.5.0.jar <a href="#fnref:1" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
+
+</article>
+      </div>
+    </main>
+  </body>
+</html>
