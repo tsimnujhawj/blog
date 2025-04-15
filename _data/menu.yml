@@ -6,9 +6,7 @@ entries:
     post_list:
       limit: 5
       show_more: true
-      show_more_text: See archive...
+      show_more_text: see all posts...
       show_more_url: archive
-  - title: all posts
-    url: archive
   - title: about me
     url: https://tsimnujhawj.github.io/
