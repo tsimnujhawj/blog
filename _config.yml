@@ -32,7 +32,7 @@ github_username:  jekyll
 permalink: /:slug.html
 
 # Build settings
-theme: no-style-please
+# theme: no-style-please
 remote_theme: riggraz/no-style-please
 
 theme_config:
