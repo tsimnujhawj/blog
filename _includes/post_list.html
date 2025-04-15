@@ -1,5 +1,5 @@
-<!-- {%-if include.category-%}
-  {%-assign posts = site.categories[include.category]-%}  
+{%-if include.category-%}
+  {%-assign posts = site.categories[include.category]-%}
 {%-else-%}
   {%-assign posts = site.posts-%}
 {%-endif-%}
@@ -26,10 +26,10 @@
       <li><a href="{{ include.show_more_url }}">{{ include.show_more_text | default: "Show more..." }}</a></li>
     {%- endif -%}
   </ul>
-{%- endif -%} -->
+{%- endif -%}
 
 <!-- HTML elements for search -->
-<ul class="posts">
+<!-- <ul class="posts">
   <li class="posts-labelgroup" id="posts-labelgroup">
     <h1 id="posts-label">posts</h1>
     <div class="search-container">
@@ -66,4 +66,4 @@
       </div>
     </li>
   {%- endfor -%}
-</ul>
+</ul> -->
