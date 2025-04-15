@@ -30,7 +30,7 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-theme: plainwhite
+# theme: plainwhite
 remote_theme: samarsault/plainwhite-jekyll
 # minimal_mistakes_skin: 'contrast'
 # remote_theme: ankitsultana/researcher@gem
