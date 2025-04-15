@@ -146,27 +146,27 @@ The <a href="https://github.com/robinst/id3lib-ruby" target="_blank">id3lib-ruby
 You’ll need to export two variables:
 
 id3lib-ruby:
-{% include copy.html %}
+
 ```bash
 export CONFIGURE_ARGS="--with-opt-dir=$(brew --prefix id3lib)"
 ```
 taglib-ruby:
-{% include copy.html %}
+
 ```bash
 export TAGLIB_DIR="$(brew --prefix taglib)"
 ```
 Of course, make sure to check your id3lib and taglib locations by using:
-{% include copy.html %}
+
 ```bash
 brew info taglib
 ```
-{% include copy.html %}
+
 ```bash
 brew info id3lib
 ```
 
 After you've exported your `CONFIGURE_ARGS` and `TAGLIB_DIR`, you can run:
-{% include copy.html %}
+
 ```bash
 bundle install
 ```
