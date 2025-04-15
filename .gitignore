@@ -6,3 +6,4 @@ vendor
 .ruby-lsp
 tmp
 .jektex-cache
+./node_modules
