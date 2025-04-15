@@ -24,10 +24,12 @@ description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
-baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: "https://tsimnujhawj.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://tsimnujhawj.github.io/blog" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
+
+permalink: /:slug.html
 
 # Build settings
 # theme: no-style-please
@@ -35,13 +37,10 @@ remote_theme: riggraz/no-style-please # if you are using GitHub Pages, change it
 
 theme_config:
   appearance: "light" # can be "light", "dark" or "auto"
-  back_home_text: "<.." # customize text for homepage link in post layout
+  back_home_text: "<..." # customize text for homepage link in post layout
   date_format: "%Y-%m-%d" # customize how date is formatted
   show_description: false # show blog description in home page
   lowercase_titles: true # show titles in lowercase in lists
-
-sass:
-  style: compressed
 
 plugins:
   - jekyll-feed
