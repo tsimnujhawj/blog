@@ -32,8 +32,8 @@ github_username:  jekyll
 permalink: /:slug.html
 
 # Build settings
-# theme: no-style-please
-remote_theme: riggraz/no-style-please # if you are using GitHub Pages, change it to remote_theme: riggraz/no-style-please
+theme: no-style-please
+remote_theme: riggraz/no-style-please
 
 theme_config:
   appearance: "light" # can be "light", "dark" or "auto"
@@ -43,7 +43,6 @@ theme_config:
   lowercase_titles: true # show titles in lowercase in lists
 
 sass:
-  sass_dir: _sass
   style: compressed
 
 plugins:
