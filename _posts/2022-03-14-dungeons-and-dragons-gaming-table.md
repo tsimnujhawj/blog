@@ -20,7 +20,7 @@ Laying the TV flat on the table meant it sat elevated, which made for an awkward
 
 The concept came from this <a href='https://youtu.be/x7L-WF2YZKk' target='_blank'>video</a>.
 
-I purchased the dining table for $50 off Nextdoor. I joined the table and leaf together to form a solid top. Then I measured my TV and cut a slot in the center of the table. Next came sanding off the old varnish and stain to get to the raw wood. I used 60, 120, and 220 grit sandpaper depending on how much material I needed to remove. After exposing the raw wood, I used a tack cloth to remove dust and debris. Then I stained it with Minwax Dark Walnut and applied polyurethane—three coats, with light sanding between layers. After the final coat dried, I used a piece of brown paper bag1 to knock down any bumps and then buffed it with an ultra-fine polishing pad to get it smooth and shiny.
+I purchased the dining table for $50 off Nextdoor. I joined the table and leaf together to form a solid top. Then I measured my TV and cut a slot in the center of the table. Next came sanding off the old varnish and stain to get to the raw wood. I used 60, 120, and 220 grit sandpaper depending on how much material I needed to remove. After exposing the raw wood, I used a tack cloth to remove dust and debris. Then I stained it with Minwax Dark Walnut and applied polyurethane—three coats, with light sanding between layers. After the final coat dried, I used a piece of brown paper bag[^1] to knock down any bumps and then buffed it with an ultra-fine polishing pad to get it smooth and shiny.
 
 All the building supplies cost about $100. This includes the lumber (2×1x3, 2×1x2), a new can of stain and polyurethane, a jug of mineral spirits, screws, sandpaper, and the polishing pad.
 
