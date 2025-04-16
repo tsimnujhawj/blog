@@ -7,3 +7,4 @@ vendor
 tmp
 .jektex-cache
 ./node_modules
+_drafts
