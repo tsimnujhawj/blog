@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Four Senko Colors Every Angler Needs
-date: 2025-04-30 08:00 -0500
+date: 2025-04-30 00:40 -0500
 tags:
  -
 ---
