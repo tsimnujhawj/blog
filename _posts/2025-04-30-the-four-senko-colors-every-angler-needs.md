@@ -8,7 +8,6 @@ tags:
 
 When it comes to fishing bass, I like to keep things simple. Senkos are a lot of people's confident lure for a reason: they work. But knowing what colors to use can be overwhelming. But after countless experimentation, I’ve boiled it down to four essential types: dark, light, shiny, and natural. Each one has its place depending on the water clarity, light conditions, and bass behavior. In this post, I’ll break down what each type does best—and when to throw it.
 
-
 ## 1. Dark Colors
 **Best For:** Stained or muddy water, low-light conditions (early morning, dusk, overcast days)
 
@@ -33,5 +32,6 @@ Flakes add a flash of light with they twitch or fall. Colors like **Watermelon R
 
 When conditions are tough or the bass are picky, go natural. Think **Green Pumpkin**, **Baby Bass**, or **Watermelon**—colors that closely match craws, baitfish, or worms in your local water. These blends work because they don’t draw too much attention; instead, they blend into the environment just enough to look real.
 
+---
 
 You don’t need dozens of Senko colors to fill a tackle box—you just need the right *types*. By focusing on dark, light, shiny, and natural tones, you can confidently cover any water condition or bass mood. Keep a few of each on hand, learn when to throw them, and let the fish do the rest.
