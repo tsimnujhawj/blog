@@ -33,4 +33,5 @@ Flakes add a flash of light with they twitch or fall. Colors like **Watermelon R
 
 When conditions are tough or the bass are picky, go natural. Think **Green Pumpkin**, **Baby Bass**, or **Watermelon**—colors that closely match craws, baitfish, or worms in your local water. These blends work because they don’t draw too much attention; instead, they blend into the environment just enough to look real.
 
+
 You don’t need dozens of Senko colors to fill a tackle box—you just need the right *types*. By focusing on dark, light, shiny, and natural tones, you can confidently cover any water condition or bass mood. Keep a few of each on hand, learn when to throw them, and let the fish do the rest.
