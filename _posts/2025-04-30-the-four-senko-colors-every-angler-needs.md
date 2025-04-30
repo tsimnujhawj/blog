@@ -19,7 +19,6 @@ Dark colors like **Black Blue Flake**, **Junebug**, or even deep purples create 
 
 When the sun is high and the water is crystal clear, subtlety wins. Light shades like **Pearl**, **Bubblegum**, or **Cream** can imitate baitfish flashing in the light, triggering reaction strikes from sight-oriented bass. These are especially deadly in the spring when bass are shallow and spooky--hesitant to feed.
 
-> #### Chartreuse
 > Solid **Chartreuse** or **White/Chartreuse** combos can work well as light colors, especially in clear water where a bold, high-visibility bait gets noticed. But chartreuse is also versatile—read more below under “Shiny Colors” if you're using it as a tail.
 
 ## 3. Shiny (Flake) Colors
@@ -27,7 +26,6 @@ When the sun is high and the water is crystal clear, subtlety wins. Light shades
 
 Flakes add a flash of light with they twitch or fall. Colors like **Watermelon Red Flake**, **Green Pumpkin Blue Flake**, or **Silver Flake** can mimic the glint of scales on a baitfish. Shine doesn’t just attract—it can also help a bait stand out just enough to provoke a bite when fish are following but not committing.
 
-> #### Chartreuse
 > A natural-colored Senko with a **chartreuse-dipped tail** or **chartreuse flake** straddles the line between natural and attention-grabbing. It’s especially effective in stained water where subtle flash makes the difference without overwhelming the bait’s profile.
 
 ## 4. Natural Colors
