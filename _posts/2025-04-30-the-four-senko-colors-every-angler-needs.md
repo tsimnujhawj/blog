@@ -6,8 +6,6 @@ tags:
  -
 ---
 
-# The Four Senko Colors Every Angler Needs
-
 When it comes to fishing bass, I like to keep things simple. Senkos are a lot of people's confident lure for a reason: they work. But knowing what colors to use can be overwhelming. But after countless experimentation, I’ve boiled it down to four essential types: dark, light, shiny, and natural. Each one has its place depending on the water clarity, light conditions, and bass behavior. In this post, I’ll break down what each type does best—and when to throw it.
 
 ---
