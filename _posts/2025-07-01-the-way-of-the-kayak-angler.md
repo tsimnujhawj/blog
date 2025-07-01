@@ -1,0 +1,29 @@
+---
+layout: post
+title: The Way of the Kayak Angler
+date: 2025-07-01 11:33 -0500
+---
+
+When I started fishing, like most folks, I started on the bank, casting hook, worm, and bobber. I didn’t know what I was doing, I was mostly just hoping and waiting for something to take my bait. I would search for lakes with good shore access and often left disappointed, whether the piers were overcrowded or the access was limited. I knew early on that I’d have to get onto the water to catch bigger fish, and bass became my prime target.
+
+I researched watercraft, primarily canoes and kayaks, since motorized boats weren’t an option. The difficulty of maintenance, cost, launch restrictions, and storage needs made that a non-starter for me. I only cared about getting on the water, no matter how, but I also valued simplicity. Canoes were my first thought, I'd been to the Boundary Waters Canoe Area Wilderness multiple times and felt comfortable in them. But that was quickly overshadowed by the advancements in fishing kayaks. They were better designed for fishing and, specifically, for solo use.
+
+My wife and I eventually agreed to get a couple of kayaks. She wanted one to enjoy the water during the summer, and I would get a fishing-specific yak. We were lucky to find a good deal at Dick’s for a couple of simple models. I got the Quest Teton 100, a sit-on-top kayak that would get me on the water. Little did I know that it would launch me into an obsession with kayak fishing.
+
+At the start, I was just tossing a Texas-rigged Senko at pads and catching fish. I didn’t really know what I was doing, I didn’t even understand why or how the Senko was so effective. I just knew that, on my kayak, I could get to the outside edges of the weeds, and the Senko was catching bass. I was having fun, and as I did, I kept learning more about bass behavior, and at every turn, I realized the kayak got me to places that held fish.
+
+Some of the biggest bass I caught that first year came from shallow water, just 1 to 3 feet deep. These were big fish holed up in tight pockets behind walls of pads and weeds. I quickly realized the kayak wasn’t just an affordable and accessible way to fish, it was a way of fishing. In fact, it was an advantage. Sure, with just the paddle to propel me, I couldn’t cover water as quickly, but the physical work of slowly hunting them made every catch more rewarding. I knew I only caught those fish because I worked for them, everything from paddling, to quietly observing my environment, to enduring the wind, water, and sun.
+
+I came to understand that kayak fishing, being at water level, is a kind of fishing that differs from motorized boats in deep ways. That’s not to say that motorized boats, or even motorized kayaks, aren’t valid or fun. But kayak fishing with a paddle is the purest form of the sport. It’s the same reason someone might hunt with a bow instead of a rifle. It strips us back to something essential and lets us experience fishing in a way that’s closer to our primal ancestors. Of course, kayak technology has come a long way, but the roots of kayak fishing [stretch back 4,000 years](https://en.wikipedia.org/wiki/Kayak_fishing).
+
+There’s something about being at water level that changes your relationship with the lake. In a kayak, you’re not hovering above the water, you’re in it. You feel every shift in wind direction, every subtle push of current. You become attuned to the temperature of the water as it laps against your legs, to the scent of algae or pine, to the way birds quiet down when something stirs beneath the surface. You start to notice things that boaters rush past: a swirl in the pads, the glint of scales in the shallows, the way a frog clings to a reed just before leaping.
+
+This isn’t just observation, it’s immersion. Kayak fishing forces you to move quietly, to slow down, to match the rhythm of the water rather than overpower it. You’re no longer an intruder speeding across the lake, you’re part of the environment. And the more time you spend in that rhythm, the more you understand the patterns beneath it all: where the shade falls during the heat of the day, how the bass sit at the edge of weedlines when the wind picks up, how morning fog clings to the water before the bite turns on.
+
+You become a better angler not because you have better gear or a faster boat, but because you listen, to the lake, to the wildlife, and to your own instincts. There’s an intimacy in kayak fishing that deepens your respect for the waters you fish. You no longer treat the lake like a resource to be conquered, but a living system you’re lucky to be part of.
+
+Kayak fishing has changed the way I fish, but more than that, it’s changed the way I relate to fishing. It stripped away the noise, the shortcuts, the excess. What’s left is something elemental: water, paddle, lure, and the patience to bring it all together. I don’t need to go fast. I don’t need to cover the whole lake. I just need to be present, to pay attention, and to keep moving forward, stroke by stroke, cast by cast.
+
+There are plenty of ways to fish, and each has its place. But for me, kayak fishing feels the truest. Not because it’s better, but because it brings me closest to the experience, the chase, the challenge, the stillness, and the surprise. It reminds me that the point isn’t just to catch fish, it’s to fish well, with care, curiosity, and respect for the water.
+
+If you’ve ever felt the call to fish differently, to move slower, to be closer, to experience more, then I encourage you to try kayak fishing. Start simple. Don’t worry about the gear. Just get on the water. Paddle out. Be still. And cast. You might be surprised by what you find, out there, and in yourself.
